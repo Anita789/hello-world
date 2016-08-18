@@ -1,2 +1,6 @@
 # hello-world
-something i've never done before. I don't even know what am I doing. hahha
+hi everyone!
+
+my name is Anita
+I have no idea about programming....yet...
+but i looove food 
